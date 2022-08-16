@@ -1,3 +1,6 @@
+This fork making work GPUImage3 as Swift package dependency.
+Support iOS Simulator and device arm64
+
 # GPUImage 3 #
 
 <div style="float: right"><img src="http://sunsetlakesoftware.com/sites/default/files/GPUImageLogo.png" /></div>
